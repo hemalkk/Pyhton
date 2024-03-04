@@ -1,0 +1,16 @@
+list=['a','b','d','c']
+print(list)
+# list[3]='e'
+# print(list)
+# print(len(list))
+# list.append('e')
+# print(list)
+# list.remove('e')
+# print(list)
+# list.pop(3)
+# print(list)
+# print('a' in list)
+# list.sort()
+# print(list)
+list.reverse()
+print(list)
